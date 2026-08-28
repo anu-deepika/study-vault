@@ -308,6 +308,7 @@ def build():
     lines.append("")
     lines.append("---")
     lines.append("")
+    lines.append("| Spring Boot & Microservices (Telusko) | [`Spring-Boot-Microservices`](/Spring-Boot-Microservices) |")
 
     # TOC
     lines.append("## Table of Contents")
